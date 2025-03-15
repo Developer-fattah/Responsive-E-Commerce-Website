@@ -27,6 +27,21 @@ body{
 .navbar-toggler{
     background-color: white;
 }
+.fa-truck-fast,
+.fa-user-nurse{
+    font-size: 50px;
+}
+.card1{
+    display: flex;
+    width: 30%;
+    height: 100px;
+    background-color: #fff;
+    box-shadow: 2px 4px 5px gray;
+}
+
+.maincard{
+    margin-top: 30px;
+}
 
 
 
