@@ -59,9 +59,35 @@ h3{
     flex-wrap: wrap;
 }
 
+.newArrivals{
+    margin-top: 50px;
+}
+.card{
+    width: 250px;
+    height: auto !important;
+    margin-bottom: 10px;
+}
+.card-text{
+    font-weight: bold;
+}
+.btn-primary{
+    width: 100%;
+    background-color: #154880;
+}
+.heading{
+    text-align: center;
+    margin: 20px;
+    color: #154880;
+    font-weight: bold;
+}
+
+
+
 @media screen and (max-width: 600px) {
     .card1, .card2,
 .card3 {
       width: 100%;
     }
   }
+
+
